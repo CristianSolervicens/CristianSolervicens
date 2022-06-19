@@ -1,0 +1,4 @@
+- Hi, I’m @CristianSolervicens
+- I’m Infrastructure and DevOps, and also love to code
+- I’m currently learning about ever'y thig !
+- cscornely@gmail.com
