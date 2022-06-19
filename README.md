@@ -1,4 +1,4 @@
-- Hi, I’m @CristianSolervicens
+- Hi, I’m Cristian Solervicens
 - I’m Infrastructure, DevOps and SQL Server specialist, and also love to code (Python & C#)!
 - I’m currently learning about ever'y thig !
 - cscornely@gmail.com
